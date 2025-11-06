@@ -4,7 +4,7 @@ Title: Simple Arithmetic Helpers (Add and Minus Two Numbers)
 Version: 0.1.0
 Authors@R: c(
     person(given = "Shipeng", family = "Guo", role = c("aut", "cre"),
-           email = "", comment = c(ORCID = ""))
+           email = "shipeng@users.noreply.github.com", comment = c(ORCID = ""))
  )
 Description: Provides two very simple helper functions: 'addTwo' to return the sum
     of two numeric inputs and 'minusTwo' to return their difference.
