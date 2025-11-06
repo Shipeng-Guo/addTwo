@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.tar.gz
+*.Rcheck/
+.DS_Store
+/.vscode/
+/.idea/
+node_modules/
+
